@@ -18,7 +18,7 @@ Prasanna-Website is a launch countdown site with a visually appealing design, co
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Website-launch-countdown/
+    https://prasannad02.github.io/Website-launch-countdown/
 ## Getting Started
 
 To get started with prasanna-Website launch countdown, follow these steps:
